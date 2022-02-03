@@ -4,3 +4,30 @@ body{
 h1{
     color:red;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.container{
+    background-color:lightslategrey ;
+    width:200px;
+    height:200px ;
+    margin: auto ;
+    padding-top: 20px;
+    
+}
+
+input{
+    background-color: turquoise;
+    margin-left: 10px;
+}
+
+#signup{
+    background-color:magenta;
+    margin-left: 10px;
+}
+#login{
+    background-color:deepskyblue;
+}
